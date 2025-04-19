@@ -11,3 +11,7 @@ func main() {
 func another() {
 	fmt.Println("another function")
 }
+
+func third() {
+	fmt.Println("third function")
+}
