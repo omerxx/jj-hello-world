@@ -1,4 +1,4 @@
-// my program
+// my program is better now
 package main
 
 import "fmt"
