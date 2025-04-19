@@ -1,3 +1,4 @@
+// my program
 package main
 
 import "fmt"
