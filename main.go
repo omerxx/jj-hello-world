@@ -7,3 +7,7 @@ func main() {
 	fmt.Println("Hello World")
 	fmt.Println("something else")
 }
+
+func another() {
+	fmt.Println("another function")
+}
